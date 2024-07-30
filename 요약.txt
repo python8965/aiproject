@@ -1,0 +1,14 @@
+포인트 클라우드 데이터 (점들의 모임) .pcd
+자동차의 라이더 같은 친구
+
+각 장면에서 객체의 직육면체에 해당하는 데이터가 있다(객체 탐지 및 분류해야하는 것들은 사이트 참고)  https://challenge.gcontest.co.kr/template/m/frame/downloadlist/16335?q=1370
+.json -> 라벨
+
+pcd랑 json 파일을 가지고 라벨로 표현 가능
+
+
+
+
+
+
+
